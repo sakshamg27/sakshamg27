@@ -19,7 +19,7 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/sakshamg27/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/sakshamg27/github-readme-streak-stats">
     <img alt="Saksham Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshabhambri&theme=monokai-metallian&hide_border=true"/>
@@ -32,20 +32,20 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/sakshamg27/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Diksha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dikshabhambri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Diksha bhambri's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dikshabhambri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/sakshamg27/github-readme-stats"><img alt="Saksham's Github Stats" src="https://sakshamg27-github-readme-stats.vercel.app/api?username=sakshamg27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/asakshamg27/github-readme-stats"><img alt="Saksham's Top Languages" src="https://sakshamg27-github-readme-stats.vercel.app/api/top-langs/?username=sakshamg27&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
 </details>
 <p align = "center">
-  <a href="https://github.com/dikshabhambri"><img src = "https://github-profile-trophy.vercel.app/?username=dikshabhambri"></a>
+  <a href="https://github.com/sakshamg27"><img src = "https://github-profile-trophy.vercel.app/?username=sakshamg27"></a>
 </p>

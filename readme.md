@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/sakshamg27/readme-typing-svg -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JAVA"></a>
+  <a href="https://github.com/sakshamg27/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;JAVA"></a>
 </p>
 
 
@@ -22,7 +22,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/sakshamg27/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/sakshamg27/github-readme-streak-stats">
-    <img alt="Saksham Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshabhambri&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Saksham Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamg27&theme=monokai-metallian&hide_border=true"/>
   </a>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -32,7 +32,7 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 

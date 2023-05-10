@@ -9,7 +9,7 @@
 </p>
 
 
-## 🙋‍♂️ Connect with me on
+## 🙋‍♂️ Connect with me 
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
